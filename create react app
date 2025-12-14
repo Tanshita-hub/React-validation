@@ -1,0 +1,4 @@
+npx create-react-app react-form-assignment
+cd react-form-assignment
+npm install react-router-dom
+npm start
